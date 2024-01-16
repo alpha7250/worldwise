@@ -1,5 +1,5 @@
 # worldwise
-$ npm i 
+$ npm i <br/>
 #to install packages
 $ npm run dev
 #to run vite
