@@ -1,6 +1,6 @@
 # worldwise
-$ npm i
-#to install packages
+$ npm i /n
+#to install packages /n
 $ npm run dev
 #to run vite
 $npm run server
